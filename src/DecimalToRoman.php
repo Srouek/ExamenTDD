@@ -2,5 +2,10 @@
 
 class DecimalToRoman{
 
-    
+    public static function decimalToRoman(int $number):string{
+
+        
+        return "";
+    }
+
 }

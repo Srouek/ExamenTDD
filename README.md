@@ -1,4 +1,4 @@
-BankAccount
+ExamenTDD
 
 ## Installation
 
